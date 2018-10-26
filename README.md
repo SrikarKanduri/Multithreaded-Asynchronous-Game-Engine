@@ -1,5 +1,4 @@
 # Multithreaded-Asynchronous-Game-Engine
-# Description:
 A multithreaded asynchronous Game Engine, implemented in Processing, that handles multiple asynchronous client requests.
 
 # Working:
